@@ -1,4 +1,11 @@
 # BACKROOMS — No-Clip
+## Sobre esta copia
+
+Hola, estoy aprendiendo Git y GitHub.
+
+Esta es mi primera experiencia utilizando Fork.
+
+Autor: Jonta
 
 Roguelike 2D contextual basado en la [wiki de las Backrooms](https://backrooms.fandom.com),
 fiel al lore: niveles, entidades, salidas y mecánicas salen de las páginas reales de la wiki.
